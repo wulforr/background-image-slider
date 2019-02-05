@@ -1,0 +1,40 @@
+#container{
+    width: 700px;
+    height: 600px;
+    margin: auto;
+    background-image: url("1.jpeg");
+    margin-top:5%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#goLeft{
+    position: relative;
+    top: 40%;
+    left: -3%;
+    height: 80px;
+    width: 40px;
+}
+#goLeft:hover{
+    background: grey;
+}
+#goRight{
+    position: relative;
+    top: 27%;
+    left: 97.25%;
+    height: 80px;
+    width: 40px;
+}
+#goRight:hover{
+    background: grey;
+}
+hr{
+    width:30px;
+    height:3px;
+    background: black;
+}
+i{
+    height:30px;
+    width: 30px;
+    size: 5em;
+    font-weight: 5em;
+}
